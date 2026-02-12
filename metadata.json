@@ -1,0 +1,8 @@
+{
+  "name": "FinAssist - Financial Account Opening Helper",
+  "description": "A comprehensive financial services assistance platform helping users navigate LIC policies, Post Office savings, and Share Market account opening with AI-powered guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
